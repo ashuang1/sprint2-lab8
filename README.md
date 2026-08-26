@@ -61,6 +61,9 @@ By the end of this lab you will have:
 ### Part C — Prove it triggers automatically
 
 7. Create a new branch, make a small change, push it, and open a PR.
+
+*MAKING A SMALL CHANGE*
+
 8. Confirm Jenkins automatically discovers the PR and builds it, without you clicking Build Now.
    With polling instead of a webhook, this can take up to the polling interval to appear, so
    give it a minute or two rather than expecting it instantly.
